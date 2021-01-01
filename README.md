@@ -22,3 +22,6 @@ Use Ctrl-C to stop
 
 Access
 * http://localhost:3000
+
+Original git repository
+* github.com/masaomi/at2go
